@@ -1,7 +1,10 @@
 List of Sports:
 Soccer
-Hockey
+Baseball
+Basketball
+Volleyball
 Polo
-Cricket
-Rugby
+Hockey
 Swimming
+Rugby
+Tennis
