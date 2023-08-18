@@ -3,3 +3,5 @@ Soccer
 Hockey
 Polo
 Cricket
+Rugby
+Swimming
