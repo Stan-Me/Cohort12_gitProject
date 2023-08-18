@@ -1,7 +1,7 @@
 List of Fruits:
-Apple
-Guava
 Banana
 Cherry
 Watermelon
 Mango
+Orange
+PawPaw
