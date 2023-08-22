@@ -7,5 +7,4 @@ Polo
 Hockey
 Swimming
 Tennis
-PingPong
-Rugby
+Lawn Tennis
