@@ -6,6 +6,6 @@ Volleyball
 Polo
 Hockey
 Swimming
-Rugby
 Tennis
 PingPong
+Rugby

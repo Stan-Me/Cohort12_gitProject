@@ -1,1 +1,2 @@
-This is an example for git stash
+This is an example for git stash.
+Also example of merge squash.

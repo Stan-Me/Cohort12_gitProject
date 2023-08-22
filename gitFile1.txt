@@ -6,3 +6,5 @@ Mango
 Orange
 Pineapple
 Guava
+Apple
+Grape
