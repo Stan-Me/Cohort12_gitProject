@@ -5,6 +5,6 @@ Watermelon
 Mango
 Orange
 Pineapple
-Guava
 Apple
 Grape
+Kiwi
